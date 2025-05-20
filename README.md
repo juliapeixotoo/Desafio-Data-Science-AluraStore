@@ -12,3 +12,5 @@ Este projeto tem como objetivo realizar uma análise detalhada e visual do desem
 
 Com ele, você poderá entender quais lojas estão faturando mais, quais categorias dominam as vendas, quais produtos são os campeões e quais precisam de atenção, além de avaliar a satisfação dos clientes e os custos médios de frete — tudo isso com gráficos intuitivos e código simples em Python.
 
+Obrigado por visitar este repositório!
+Sinta-se livre para explorar, contribuir e utilizar o código para seus próprios projetos. 🚀

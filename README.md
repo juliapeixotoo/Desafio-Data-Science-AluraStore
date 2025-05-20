@@ -1,6 +1,6 @@
 # 🚀 Desafio em Python | Projeto de Data Science - AluraStore
 
-Bem-vindo(a) ao meu repositório de desafios em **Python** desenvolvidos durante o projeto de Data Science da **Alura**! 🧠🐍
+Bem-vindo(a) ao meu repositório de desafio em **Python** desenvolvidos durante o projeto de Data Science da **Alura**! 🧠🐍
 
 ## 🌱 Em constante evolução...
 
